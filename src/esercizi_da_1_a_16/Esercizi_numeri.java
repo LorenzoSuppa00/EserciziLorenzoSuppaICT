@@ -1,5 +1,6 @@
 package esercizi_da_1_a_16;
 
+import java.util.Iterator;
 import java.util.Random;
 import java.util.Scanner;
 public class Esercizi_numeri {
@@ -21,9 +22,14 @@ public class Esercizi_numeri {
 //		scan.close();
 		
 //		ESERCIZIO 2
+		
 //		Scanner scan = new Scanner(System.in);
+//		int somma = 0;
 //		System.out.println("Dimmi 5 numeri");
-//		int somma = scan.nextInt() + scan.nextInt() + scan.nextInt() + scan.nextInt() + scan.nextInt();
+//		for (int i = 0; i < 5; i++) {
+//			int x = scan.nextInt();
+//			somma += x;
+//		}
 //		System.out.println("Somma: " + somma);
 //		scan.close();
 		
